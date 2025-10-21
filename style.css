@@ -124,4 +124,8 @@ header img {
   .card {
     width: 384px;
   }
+
+  .description {
+    width: 277px;
+  }
 }
